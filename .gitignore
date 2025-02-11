@@ -35,3 +35,8 @@
 # don't ignore .github
 !.github/
 !.github/**/*
+
+#dont ignore image files
+!*.png
+!*.jpg
+
